@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\components\\esp32-emc1072"
+		},
+		{
+			"path": "..\\..\\..\\components\\esp32-smbus"
+		}
+	],
+	"settings": {}
+}
